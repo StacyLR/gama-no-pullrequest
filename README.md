@@ -22,3 +22,4 @@ O que estou achando do curso ?
 Muito interessante! Estou adorando esse curso, muitos aprendizados a obter!!
 
 O que estou aprendendo é super importante para a minha formação como dev.
+No incio foi dificil mas agora esta compreensivel.
